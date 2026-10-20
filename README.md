@@ -1,6 +1,6 @@
 # RJ CMS — Form Builder Plugin
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.1.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![RJ CMS](https://img.shields.io/badge/RJ%20CMS-%3E%3D1.0.0-purple)
 
